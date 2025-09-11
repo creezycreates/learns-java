@@ -84,7 +84,7 @@ public class Main {
             System.out.print(prompt);
             input = scanner.nextLine() ;
         }
-        return input;
+        return input; //this is the input from the user
     }
     private static char PromptUserForCharacter(String prompt) {
         char input = ' ';
