@@ -24,7 +24,7 @@ public class WeatherService {
 
 
     // TODO: Put your OWM API key here (https://openweathermap.org/)
-    public static final String API_KEY = "6ac1879a49fe98fdb8fd3dfa274ee01a";
+    public static final String API_KEY = "a084e5df2db94d05289001d013f6e1c6";
 
     private static final HttpClient CLIENT = HttpClient.newHttpClient();
 
