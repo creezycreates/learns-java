@@ -27,4 +27,4 @@ A GUI app that shows **real-time weather** using the OpenWeatherMap API.
    - Enter a city (e.g., London, New York) and click Search
    - Switch Units to Metric (°C) or Imperial (°F)
    - View Forecast list and History on the right
-   - Status bar shows messages and errors
+   - Status bar shows messages and errors 
